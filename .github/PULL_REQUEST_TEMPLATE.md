@@ -2,8 +2,8 @@
 What changes you have made?
 
 ## Checklist
-- [ ] Code tested
-- [ ] No console errors
+- [x] Code tested
+- [x] No console errors
 - [ ] UI follows design
 - [ ] All variables named properly
 
